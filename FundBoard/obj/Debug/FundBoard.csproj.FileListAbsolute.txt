@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\FundBoard\FundBoard\bin\Debug\FundBoard.exe.config
+C:\Users\admin\source\repos\FundBoard\FundBoard\bin\Debug\FundBoard.exe
+C:\Users\admin\source\repos\FundBoard\FundBoard\bin\Debug\FundBoard.pdb
+C:\Users\admin\source\repos\FundBoard\FundBoard\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\FundBoard\FundBoard\bin\Debug\RestSharp.dll
+C:\Users\admin\source\repos\FundBoard\FundBoard\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\source\repos\FundBoard\FundBoard\bin\Debug\RestSharp.xml
+C:\Users\admin\source\repos\FundBoard\FundBoard\obj\Debug\FundBoard.Form1.resources
+C:\Users\admin\source\repos\FundBoard\FundBoard\obj\Debug\FundBoard.Properties.Resources.resources
+C:\Users\admin\source\repos\FundBoard\FundBoard\obj\Debug\FundBoard.Setings.resources
+C:\Users\admin\source\repos\FundBoard\FundBoard\obj\Debug\FundBoard.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\FundBoard\FundBoard\obj\Debug\FundBoard.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\FundBoard\FundBoard\obj\Debug\FundBoard.csproj.CopyComplete
+C:\Users\admin\source\repos\FundBoard\FundBoard\obj\Debug\FundBoard.exe
+C:\Users\admin\source\repos\FundBoard\FundBoard\obj\Debug\FundBoard.pdb
