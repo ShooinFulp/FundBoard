@@ -13,3 +13,4 @@ C:\Users\admin\source\repos\FundBoard\FundBoard\obj\Debug\FundBoard.csproj.CoreC
 C:\Users\admin\source\repos\FundBoard\FundBoard\obj\Debug\FundBoard.csproj.CopyComplete
 C:\Users\admin\source\repos\FundBoard\FundBoard\obj\Debug\FundBoard.exe
 C:\Users\admin\source\repos\FundBoard\FundBoard\obj\Debug\FundBoard.pdb
+C:\Users\admin\source\repos\FundBoard\FundBoard\obj\Debug\FundBoard.csprojAssemblyReference.cache

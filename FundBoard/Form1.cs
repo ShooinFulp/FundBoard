@@ -167,7 +167,11 @@ namespace FundBoard
                 {
                     if (dataGridView1.Rows[i].Cells["涨幅"].Value.ToString().IndexOf('-') != -1)
                     {
-                        this.dataGridView1.Rows[i].DefaultCellStyle.BackColor = System.Drawing.Color.Pink;
+                        this.dataGridView1.Rows[i].DefaultCellStyle.BackColor = Color.FromArgb(255, 0, 0);
+                    }
+                    else
+                    {
+                        this.dataGridView1.Rows[i].DefaultCellStyle.BackColor = Color.FromArgb(0, 128, 0);
                     }
                 }
             }
